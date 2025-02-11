@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frantz</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developper from France</h3>
 
 - 🔭 I’m currently working on **Building my career**
 
