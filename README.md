@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frantz</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developper from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frantz-dev" alt="frantz-dev" /></a> </p>
 
